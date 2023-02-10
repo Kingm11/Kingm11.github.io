@@ -99,11 +99,26 @@ hr {
   opacity: 0.25;
 }
 
+
 hr:not([size]) {
   height: 1px;
 }
+table{ align-items: center ;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+  
 
-img {
+tr{
+  border: 1px solid black;
+  border-collapse: collapse;
+
+}
+td{
+  border: 1px solid black;
+  padding: 7px;
+}
+img { border: dolid black;
   display: block;
   margin-left: auto;
   margin-right: auto;
